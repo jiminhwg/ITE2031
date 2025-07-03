@@ -1,5 +1,5 @@
 # HYU-ITE2031
-**ITE2031 컴퓨터구조론 (Computer Architecture) at Hanyang University**
+**컴퓨터구조론 (Computer Architecture) at Hanyang University**
 - Professor: 설웅
 - Taken in: Spring 2025
 ----------------------------------------------------
